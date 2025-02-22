@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 
-mlflow.set_tracking_uri("https://5c1d-89-75-182-190.ngrok-free.app")  # Lokalny MLflow
+mlflow.set_tracking_uri("https://8e23-89-75-182-190.ngrok-free.app")  # Lokalny MLflow
 experiment_name = "iris-model"
 mlflow.set_experiment(experiment_name)
 
