@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/768700759148827368
+creation_time: 1740216985867
+experiment_id: '768700759148827368'
+last_update_time: 1740216985867
+lifecycle_stage: active
+name: iris-model

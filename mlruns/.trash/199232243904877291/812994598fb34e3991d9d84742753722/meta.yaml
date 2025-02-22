@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/199232243904877291/812994598fb34e3991d9d84742753722/artifacts
+deleted_time: 1740216955879
+end_time: 1740216807037
+entry_point_name: ''
+experiment_id: '199232243904877291'
+lifecycle_stage: deleted
+run_id: 812994598fb34e3991d9d84742753722
+run_name: adventurous-crow-775
+run_uuid: 812994598fb34e3991d9d84742753722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740216802487
+status: 3
+tags: []
+user_id: leoni
